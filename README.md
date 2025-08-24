@@ -21,11 +21,11 @@
 
 ### 🛠️ Skills  
 <p align="left">
-  • **Languages**: Python, Java, C, SQL, JavaScript  
-  • **Frontend**: HTML, CSS, React.js  
-  • **Backend**: Node.js, Express.js  
-  • **Database**: MongoDB, MySQL  
-  • **UI/UX & Tools**: Figma, Git, GitHub, Adobe XD  
+  • **Languages** : Python, Java, C, SQL, JavaScript  
+  • **Frontend** : HTML, CSS, React.js  
+  • **Backend** : Node.js, Express.js  
+  • **Database** : MongoDB, MySQL  
+  • **UI/UX & Tools** : Figma, Git, GitHub, Adobe XD  
 </p>
 
 ---
